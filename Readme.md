@@ -18,13 +18,11 @@ Here're some of the project's best features:
 <h2>Project Screenshots:</h2>
 
 <h3>creating tasks :</h3><br>
-<img src="https://i.imgur.com/xhdQVB1.png" alt="project-screenshot" width="402" height="81/">
-<br>
+<img src="https://i.imgur.com/xhdQVB1.png" alt="project-screenshot" width="500" height="150/">
 <h3>updating tasks :</h3><br>
-<img src="https://i.imgur.com/ZLsao5f.png" alt="project-screenshot" width="350" height="194/">
-<br>
+<img src="https://i.imgur.com/ZLsao5f.png" alt="project-screenshot" width="500" height="300/">
 <h3>deleting task:</h3><br>
-<img src="https://i.imgur.com/2dS3mdh.png" alt="project-screenshot" width="254" height="44/">
+<img src="https://i.imgur.com/2dS3mdh.png" alt="project-screenshot" width="400" height="80/">
 
 ---
 
