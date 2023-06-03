@@ -17,16 +17,14 @@ Here're some of the project's best features:
 
 <h2>Project Screenshots:</h2>
 
-![Project Screenshot](https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link)
-
-![Project Screenshot](https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link)
-
-![Project Screenshot](https://drive.google.com/file/d/1aFSjYiB8g-BA_i2d2VgV7omMTeS-QcNL/view?usp=drive_link)
-<!-- <img src="https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link" alt="project-screenshot" width="804" height="162/">
-
-<img src="https://drive.google.com/file/d/1nQB_zB5dqbskKAbY66iqDbR6TQLai8pK/view?usp=drive_link" alt="project-screenshot" width="624" height="387/">
-
-<img src="https://drive.google.com/file/d/1aFSjYiB8g-BA_i2d2VgV7omMTeS-QcNL/view?usp=drive_link" alt="project-screenshot" width="583" height="88/"> -->
+<h3>creating tasks :</h3><br>
+<img src="https://i.imgur.com/xhdQVB1.png" alt="project-screenshot" width="402" height="81/">
+<br>
+<h3>updating tasks :</h3><br>
+<img src="https://i.imgur.com/ZLsao5f.png" alt="project-screenshot" width="350" height="194/">
+<br>
+<h3>deleting task:</h3><br>
+<img src="https://i.imgur.com/2dS3mdh.png" alt="project-screenshot" width="254" height="44/">
 
 ---
 

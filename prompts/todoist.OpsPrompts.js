@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
 import * as dotenv from "dotenv"
-import { TodoistApi, isSuccess } from "@doist/todoist-api-typescript";
+import { TodoistApi } from "@doist/todoist-api-typescript";
 import { createSpinner } from "nanospinner"
 import chalk from "chalk";
 import createTable from "../utils.js";
