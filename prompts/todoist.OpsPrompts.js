@@ -81,9 +81,11 @@ export async function GetTasks() {
             const table = createTable(data)
             spinner.success({ text: `${chalk.green(` tasks fetched successfully`)}\n${table}` })
         }).catch((e) => {
-            spinner.error();
-            console.log(`${chalk.red(`${e.responseData}`)}`)
-            console.log(e)
+            if (!e.responseData) {
+                spinner.error({ text: ` ${chalk.green("No tasks Available")}` });
+            } else {
+                spinner.error(`${chalk.red(`Unable to get Active tasks due to ${e.responseData}`)}`)
+            }
         })
 }
 export async function CreateTask() {
