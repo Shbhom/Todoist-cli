@@ -17,11 +17,16 @@ Here're some of the project's best features:
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link" alt="project-screenshot" width="804" height="162/">
+![Project Screenshot](https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link)
+
+![Project Screenshot](https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link)
+
+![Project Screenshot](https://drive.google.com/file/d/1aFSjYiB8g-BA_i2d2VgV7omMTeS-QcNL/view?usp=drive_link)
+<!-- <img src="https://drive.google.com/file/d/1zLp6PUyPGccipfzGAin2fYSplYLkCywY/view?usp=drive_link" alt="project-screenshot" width="804" height="162/">
 
 <img src="https://drive.google.com/file/d/1nQB_zB5dqbskKAbY66iqDbR6TQLai8pK/view?usp=drive_link" alt="project-screenshot" width="624" height="387/">
 
-<img src="https://drive.google.com/file/d/1aFSjYiB8g-BA_i2d2VgV7omMTeS-QcNL/view?usp=drive_link" alt="project-screenshot" width="583" height="88/">
+<img src="https://drive.google.com/file/d/1aFSjYiB8g-BA_i2d2VgV7omMTeS-QcNL/view?usp=drive_link" alt="project-screenshot" width="583" height="88/"> -->
 
 ---
 
